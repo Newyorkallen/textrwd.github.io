@@ -11,7 +11,17 @@ section{
     margin-top: 2px;
     margin-bottom: 2px;
 }
-@media(max-width:800px) and (min-width:376px){
+@media(max-width:800px){
+    body{
+        display: block;
+    }
+    section{
+        width: 100%;
+        padding: 2px;
+    }
+}
+
+@media(max-width:376px){
     body{
         display: block;
     }
