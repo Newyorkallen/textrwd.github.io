@@ -21,7 +21,7 @@ section{
     }
 } */
 
-/* @media(max-width:376px){
+ @media(max-width:450px){
     body{
         display: block;
     }
@@ -30,4 +30,4 @@ section{
         padding: 2px;
     }
 }
- */
+ 
