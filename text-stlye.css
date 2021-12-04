@@ -11,7 +11,7 @@ section{
     margin-top: 2px;
     margin-bottom: 2px;
 }
-@media(min-width:376px){
+@media(max-width:800px){
     body{
         display: block;
     }
