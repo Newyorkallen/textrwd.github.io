@@ -1,0 +1,22 @@
+body{
+    /* width: 1440px; */
+    /* margin: o auto; */
+    /* border: 2px solid red;  */
+    display: flex;
+    
+}
+section{
+    width: 450px;
+    /* border: 1px solid black; */
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+@media(max-width:376px){
+    body{
+        display: block;
+    }
+    section{
+        width: 100%;
+        padding: 2px;
+    }
+}
